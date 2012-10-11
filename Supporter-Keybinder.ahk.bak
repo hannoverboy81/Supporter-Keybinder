@@ -1,9 +1,3 @@
-/* Supporter Keybinder
-- von hannoverboy81 -
-
-
-*/
-
 version := 1.0
 savepath = %A_AppData%\ProgPath\Supporter-Keybinder
 ininame = Supporter-Daten.ini
